@@ -5,7 +5,7 @@ Platform for retail client who requested the ability to send bulk text messages 
 
 The project is hosted on Heroku and uses the following resources:
 
-> Twilio, Redis, Postgres, Celery, Flask, Jinja2, Flask-SQLAlchemy, 
+> Twilio, Redis, Postgres, Celery, Flask, Jinja2, Flask-SQLAlchemy
 
 
 **Language Used**: Python
